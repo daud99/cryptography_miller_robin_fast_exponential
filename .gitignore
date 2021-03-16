@@ -1,0 +1,16 @@
+.vscode
+geckodriver.log
+.idea
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+*.iws /out/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/*
+reports/
+logs/*
